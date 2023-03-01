@@ -355,3 +355,4 @@ MigrationBackup/
 
 # VSCode settings
 .vscode/
+.code-workspace
