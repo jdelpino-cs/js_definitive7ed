@@ -1,4 +1,4 @@
-/**
+/** From "JS: The Definitive Guide"
  * This Node program reads text from standard input, computes the frequency
  * of each letter in that text, and displays a histogram of the most
  * frequently used characters. It requires Node 12 or higher to run.
